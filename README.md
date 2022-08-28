@@ -1,2 +1,2 @@
-# Java-Practice
+# Java-Basics
 DSA in Java

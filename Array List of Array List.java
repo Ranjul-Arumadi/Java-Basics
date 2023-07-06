@@ -26,5 +26,10 @@ public class Main
 		        System.out.println(items.get(i).get(j));
 		    }
 		}
+
+
+			(OR)
+
+		for(List<String> s : items) { s.get(0) etc }  //This is also valid		
 	}
 }
